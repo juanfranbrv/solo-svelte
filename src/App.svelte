@@ -1,13 +1,13 @@
 <script>
 //   import Mensaje from "./Mensaje.svelte";
 // import Boton from "./Boton.svelte"
-let mensaje ="Hola, soy estático"
+let mensaje ="¡Hola, soy estático!"
 
 function cambiarMensaje() {
 
-  mensaje == "Hola, soy estático"
-    ? (mensaje = "...bueno, no siempre")
-    : (mensaje = "Hola, soy estático");
+  mensaje == "¡Hola, soy estático!"
+    ? (mensaje = "...bueno, no siempre.")
+    : (mensaje = "¡Hola, soy estático!");
 }
   
 </script>
