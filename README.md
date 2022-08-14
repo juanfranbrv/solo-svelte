@@ -8,5 +8,8 @@ Servira para probar la publicacion desde este repositorio en
 - Netlify
 - Render
 - IONOS Deploy Now
+- Surge
+- Heroku
 
-
+ref https://vitejs.dev/guide/static-deploy.html
+ref 
