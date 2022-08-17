@@ -27,4 +27,5 @@ Servirá para probar la publicacion desde este repositorio en
 👓🔗🚀🚩
 
 🔗 https://vitejs.dev/guide/static-deploy.html
+🔗 https://www.notion.so/Publicar-Desplegar-Deploy-59bab1f5565f4c39bf27d487eab0289d 
  
