@@ -19,6 +19,10 @@ Servirá para probar la publicacion desde este repositorio en
 - Microsoft Azure  (App Service)
 - Digital Ocean
 - Begin
+- Railway
+- Fly.io
+- deta.sh
+
 
 ## Cuestiones 👀
 - Deploys automáticos ? == Tras un commit, se produce un deploy automatico ?
